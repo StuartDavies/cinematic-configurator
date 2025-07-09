@@ -113,6 +113,6 @@ body {
 }
 
 .wheel:hover {
-
+    transform: scale(1.05);
 }
 
